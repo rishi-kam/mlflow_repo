@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rishi/mlflow_repo/mlruns/0/b095ed5ec3144822a89c92a46d8c0890/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b095ed5ec3144822a89c92a46d8c0890
+run_name: abundant-chimp-373
+run_uuid: b095ed5ec3144822a89c92a46d8c0890
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671677227898
+status: 1
+tags: []
+user_id: rishi

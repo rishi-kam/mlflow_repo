@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rishi/mlflow_repo/mlruns/0/50d4a3e9191e408d9f983eab9cfa0429/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50d4a3e9191e408d9f983eab9cfa0429
+run_name: clean-fish-685
+run_uuid: 50d4a3e9191e408d9f983eab9cfa0429
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671640706631
+status: 1
+tags: []
+user_id: rishi

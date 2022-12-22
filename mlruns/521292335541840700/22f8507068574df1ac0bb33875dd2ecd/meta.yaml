@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rishi/mlflow_repo/mlruns/521292335541840700/22f8507068574df1ac0bb33875dd2ecd/artifacts
+end_time: 1671639349632
+entry_point_name: ''
+experiment_id: '521292335541840700'
+lifecycle_stage: active
+run_id: 22f8507068574df1ac0bb33875dd2ecd
+run_name: exultant-gull-331
+run_uuid: 22f8507068574df1ac0bb33875dd2ecd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671639347008
+status: 3
+tags: []
+user_id: rishi

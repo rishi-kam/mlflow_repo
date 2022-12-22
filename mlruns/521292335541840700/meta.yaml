@@ -1,0 +1,6 @@
+artifact_location: file:///home/rishi/mlflow_repo/mlruns/521292335541840700
+creation_time: 1671638485003
+experiment_id: '521292335541840700'
+last_update_time: 1671638485003
+lifecycle_stage: active
+name: ElasticNet_wine

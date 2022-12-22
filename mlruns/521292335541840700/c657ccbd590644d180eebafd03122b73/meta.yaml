@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rishi/mlflow_repo/mlruns/521292335541840700/c657ccbd590644d180eebafd03122b73/artifacts
+end_time: 1671638770018
+entry_point_name: ''
+experiment_id: '521292335541840700'
+lifecycle_stage: active
+run_id: c657ccbd590644d180eebafd03122b73
+run_name: kindly-bug-999
+run_uuid: c657ccbd590644d180eebafd03122b73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671638762867
+status: 3
+tags: []
+user_id: rishi

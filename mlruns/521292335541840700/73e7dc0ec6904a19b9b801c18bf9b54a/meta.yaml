@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rishi/mlflow_repo/mlruns/521292335541840700/73e7dc0ec6904a19b9b801c18bf9b54a/artifacts
+end_time: 1671639361895
+entry_point_name: ''
+experiment_id: '521292335541840700'
+lifecycle_stage: active
+run_id: 73e7dc0ec6904a19b9b801c18bf9b54a
+run_name: lyrical-elk-180
+run_uuid: 73e7dc0ec6904a19b9b801c18bf9b54a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671639359507
+status: 3
+tags: []
+user_id: rishi
