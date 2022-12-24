@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rishi/mlflow_repo/mlruns/514278327635841962/9b3c07da56004c8d92ec59b1b3fd4f25/artifacts
+end_time: 1671868966118
+entry_point_name: ''
+experiment_id: '514278327635841962'
+lifecycle_stage: active
+run_id: 9b3c07da56004c8d92ec59b1b3fd4f25
+run_name: modeling
+run_uuid: 9b3c07da56004c8d92ec59b1b3fd4f25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671868961345
+status: 3
+tags: []
+user_id: rishi
